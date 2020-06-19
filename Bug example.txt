@@ -1,0 +1,16 @@
+Title: List Places form - Field "query" accepts one-character values
+Environment: Production
+Priority: Low
+Severity: Medium
+
+Steps to reproduce:
+1.) Login to RapidAPI with valid credentials
+2.) Navigate to the Endpoint page
+3.) Select List places form
+4.) Enter only one character value in the "Querry" field
+5.) Fulfil the rest of form fields with valid values
+6.) Click on Test Endpoint button
+7.) Verify the Response status
+
+Result obtained: Form field accepted the one character values.
+Result expected: Form field should not accept one character values as there is a note displayed below mentioning that only string should be at least 2 characters long.
