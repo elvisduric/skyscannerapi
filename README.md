@@ -1,7 +1,7 @@
 # skyscannerapi
 
 - Skripte su pisane u Eclipse IDE korištenjem Java programming language.
-- Na Project Libraries je potrebno dodati external Selenium libraries koje možete preuzeti na https://www.selenium.dev/downloads/
+- Na Project Libraries je potrebno dodati external Selenium Webdriver libraries koje možete preuzeti na https://www.selenium.dev/downloads/
 - Potrebno je instalirati TestNG Eclipse Plug-in https://testng.org/doc/download.html
 - Dodati TestNG Library na Project Libraries //Project Properties > Java Build Path > Libraries//
 
